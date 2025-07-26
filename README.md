@@ -5,9 +5,9 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v3.4.1-blue?logo=tailwindcss)
 ![Vite](https://img.shields.io/badge/Vite-v5.2.0-blue?logo=vite)
 
-Welcome to **GlowGrid Gauntlet**, a stunning neon-themed Tic-Tac-Toe game. This project marks **Day 24** of my **#30DaysOfVibeCoding** challenge, where I build and ship a new web project every single day for 30 days.
+Welcome to **GlowGrid Gauntlet**, a stunning neon-themed Tic-Tac-Toe game. This project marks **Day 26** of my **#30DaysOfVibeCoding** challenge, where I build and ship a new web project every single day for 30 days.
 
-### ✨ [Live Demo](https://YOUR_PROJECT_NAME.vercel.app) ✨
+### ✨ [Live Demo](https://glow-grid-gauntlet.vercel.app/) ✨
 
 ![GlowGrid Gauntlet Demo](./public/Screenshot%202025-07-27%20000559.png)
 ![GlowGrid Gauntlet Demo](./public/Screenshot%202025-07-27%20000624.png)
